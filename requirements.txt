@@ -1,0 +1,14 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pandas
+numpy
+create_engine
+pydot
+train_test_split
+RandomForestClassifier
+shap
+accuracy_score
+classification_report
+confusion_matrix
+matplotlib.pyplot
+seaborn
