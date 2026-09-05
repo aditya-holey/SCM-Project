@@ -19,7 +19,7 @@ import pydot
 from sqlalchemy import create_engine
 
 DB_USER = "sql12836572"
-DB_PASS = gRByJ4szYd
+DB_PASS = 'gRByJ4szYd'
 DB_HOST = "sql12.freesqldatabase.com"
 DB_PORT = "3306"
 DB_NAME = "sql12836572"
